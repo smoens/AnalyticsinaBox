@@ -1,6 +1,6 @@
 targetScope = 'subscription'
 
-param location string = 'westus2'
+param location string = 'francecentral'
 param prefix string
 param postfix string
 param env string 
