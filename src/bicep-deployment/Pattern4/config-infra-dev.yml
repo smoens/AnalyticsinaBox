@@ -9,7 +9,7 @@ variables:
   environment: dev
 
   # Azure DevOps 
-  ado_service_connection_rg: Azure-ARM-Dev-SAPA #rg-smoens-dev-westeu-1 #
+  ado_service_connection_rg: moenssa-Sandbox-cc7a2c07-0b5a-428a-8c79-20197553677d #rg-smoens-dev-westeu-1 #
 
 
   # IaC
